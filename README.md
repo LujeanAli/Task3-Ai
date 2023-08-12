@@ -8,7 +8,7 @@
 
  ### Goal achievement steps
 
-   #### - Gather data
+   #### -Gather data
    Collect several images of human interactions.
    
    #### - Create different classes & Separate human images
