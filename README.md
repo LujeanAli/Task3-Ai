@@ -8,15 +8,15 @@
 
  ### Goal achievement steps
 
-   #### -Gather data
+   #### 1- Gather data
    Collect several images of human interactions.
    
-   #### - Create different classes & Separate human images
+   #### 2- Create different classes & Separate human images
    I Chose three diffrent classes (Happy,Angry and surprised) , each contains ten diffrent images.
   
    ![image](Classes.png)
 
-   #### - Train model
+   #### 3- Train model
    After separated images i trained the model.
 
   ![image](B.png)    
@@ -24,7 +24,7 @@
   ![image](A.png)
 
 
-  #### - Preview the model
+  #### 4- Preview the model
 
   ![image](s.png)
   
@@ -36,7 +36,7 @@
  
 
 
-  #### - Export the model
+  #### 5- Export the model
 
   ![image](E.png)
 
